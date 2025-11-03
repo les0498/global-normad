@@ -1,7 +1,9 @@
 <a href="https://inmyday.vercel.app">
   <img src="https://github.com/user-attachments/assets/a0e8fc89-eff8-4e30-8bf5-35d0af231cad" width="30" />
 </a>
-<img src="https://github.com/user-attachments/assets/69b368d2-78f2-4493-ba4a-42be6ba72496" width="100" />
+<p>
+  <img src="https://github.com/user-attachments/assets/69b368d2-78f2-4493-ba4a-42be6ba72496" width="100" />
+</p>
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9d02d7e4-3cc6-442f-b650-190078ace71c" />
 
