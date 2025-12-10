@@ -3,6 +3,7 @@ import GNB from "@/components/GNB";
 import Footer from "@/components/Footer";
 import Protected from "@/components/auth-detail/Protected";
 
+// test CI trigger
 export default function ExperienceRegisterLayout({
   children,
 }: {
