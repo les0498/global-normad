@@ -24,7 +24,7 @@ export default function KakaoSignupHandler({
 
   useEffect(() => {
     if (!code) {
-      console.warn("code 없음 searchParams:", params);
+      console.warn("code 없음 searchParams");
       return;
     }
 
