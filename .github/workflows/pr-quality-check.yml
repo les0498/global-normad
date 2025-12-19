@@ -6,6 +6,7 @@ on:
 
 jobs:
   quality:
+    name: PR Quality Check
     runs-on: ubuntu-latest
 
     steps:
